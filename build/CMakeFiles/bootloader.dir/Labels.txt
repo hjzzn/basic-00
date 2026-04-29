@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/gitrepo/esp32s3/basic-00/build/CMakeFiles/bootloader
+D:/gitrepo/esp32s3/basic-00/build/CMakeFiles/bootloader.rule
+D:/gitrepo/esp32s3/basic-00/build/CMakeFiles/bootloader-complete.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/gitrepo/esp32s3/basic-00/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
